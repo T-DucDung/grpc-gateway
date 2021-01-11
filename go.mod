@@ -3,7 +3,7 @@ module github.com/tronprotocol/grpc-gateway
 go 1.15
 
 require (
-	github.com/T-DucDung/grpc-gateway v1.3.2
+	github.com/T-DucDung/grpc-gateway v1.3.3
 	github.com/go-resty/resty v0.4.2-0.20180405024425-f8815663de1e
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/protobuf v1.1.1-0.20180622174009-9eb2c01ac278
