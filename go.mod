@@ -1,4 +1,4 @@
-module github.com/tronprotocol/grpc-gateway
+module github.com/T-DucDung/grpc-gateway
 
 go 1.15
 
